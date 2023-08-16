@@ -33,17 +33,3 @@
 
 <br>
 
-## GitHub/Coding Statistics
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=nixonwidjaja&count_private=true&hide_rank=false&show_icons=true&theme=tokyonight&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Nixon's%20GitHub%20Stats" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixonwidjaja&count_private=true&theme=tokyonight&title_color=8ddbf7&layout=compact&hide=jupyter%20notebook,css,scss,html"></a>
-</div>
-
-<br>
-
-<details>
-  <summary>
-    <b>Contribution Timeline</b>
-  </summary>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nixonwidjaja&custom_title=Contribution%20Graph&theme=react-dark&area=true&"/></a>
- </details>
